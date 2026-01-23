@@ -117,14 +117,3 @@ Mỗi **Node** gồm:
 
 ---
 
-##  Giao diện
-
-Chương trình có giao diện console đẹp với:
-- ✅ Bảng dữ liệu thẳng hàng (dùng `iomanip`)
-- ✅ Khung viền Unicode
-- ✅ Tiêu đề nổi bật cho mỗi chức năng
-- ✅ Xóa màn hình khi chuyển menu
-- ✅ Dừng màn hình để đọc kết quả
-
----
-
