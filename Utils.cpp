@@ -95,9 +95,9 @@ void printMainMenu() {
     cout << "\n";
     cout << "    ╔══════════════════════════════════════════════════════════════╗\n";
     cout << "    ║                                                              ║\n";
-    cout << "    ║          ★★★ QUAN LY THONG TIN KHOA HOC ★★★                  ║\n";
+    cout << "    ║              ★★★ QUAN LY THONG TIN KHOA HOC ★★★              ║\n";
     cout << "    ║                                                              ║\n";
-    cout << "    ║                   Bai tap lon - NMLT                         ║\n";
+    cout << "    ║                      Bai tap lon - NMLT                      ║\n";
     cout << "    ║                                                              ║\n";
     cout << "    ╠══════════════════════════════════════════════════════════════╣\n";
     cout << "    ║                                                              ║\n";
@@ -124,7 +124,7 @@ void showExitMessage() {
     cout << "    ║                                                              ║\n";
     cout << "    ║               CAM ON BAN DA SU DUNG CHUONG TRINH!            ║\n";
     cout << "    ║                                                              ║\n";
-    cout << "    ║                      ★ Tam biet! ★                           ║\n";
+    cout << "    ║                         ★ Tam biet! ★                        ║\n";
     cout << "    ║                                                              ║\n";
     cout << "    ╚══════════════════════════════════════════════════════════════╝\n";
     cout << "\n\n";
