@@ -49,7 +49,7 @@ void printHeader(string title) {
     cout << "\n";
     cout << "    ╔══════════════════════════════════════════════════════════════╗\n";
     cout << "    ║" << setw(32 + title.length()/2) << title 
-         << setw(33 - title.length()/2) << "║\n";
+         << setw(34 - title.length()/2) << "║\n";
     cout << "    ╚══════════════════════════════════════════════════════════════╝\n";
     cout << "\n";
 }
