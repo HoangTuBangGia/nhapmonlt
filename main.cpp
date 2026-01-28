@@ -357,7 +357,7 @@ int main() {
     int choice;  // Biến lưu lựa chọn của người dùng
     
     // ========================================================================
-    // Thêm dữ liệu mẫu để test (có thể xóa phần này khi nộp bài)
+    // Thêm dữ liệu mẫu để test
     // ========================================================================
     courseList.addCourse(Course("CS101", "Nhap mon Lap trinh", 3, 120));
     courseList.addCourse(Course("CS102", "Cau truc Du lieu", 4, 95));
